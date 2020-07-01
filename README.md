@@ -63,4 +63,4 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - [云软科技](http://www.yunruan.ltd/)
 
 # AASCSurvey
-<p align="center"><img src="public/img/favicon2.png" width="400"></p>
+<p align="center"><img src="public/img/favicon2.png"></p>
