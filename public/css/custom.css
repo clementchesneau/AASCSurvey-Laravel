@@ -1,0 +1,275 @@
+html, body {
+  min-height: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+#app {
+  min-height: 100%;
+  display:flex; 
+  flex-direction:column; 
+}
+
+main {
+  height: 100%;
+}
+
+#bodycreate {
+  padding-bottom: auto;
+}
+
+.navbar-nav .nav-link:hover {
+  color: rgb(200, 200, 200) !important;
+}
+
+.navbar-toggler-icon {
+  padding: 0 !important;
+  color: white !important;
+}
+
+.navbar-nav .dropdown-menu {
+    border-radius: 0px;
+    box-shadow: 0 0 8px 0 #212529;
+    border-color: #fff;
+}
+
+.navbar-nav .dropdown-item:active {
+    background-color: #CA3E47;
+}
+
+.navbar-nav .dropdown-item:hover {
+    color: #CA3E47;
+    background-color: white;
+}
+
+.navbar {
+    /* Couleur de fond de la barre de navigation */
+    background-color: #525252;
+    border-color: #707070;
+   }
+
+
+   
+#dropdown-menu-lang {
+    min-width: 10px;
+}
+
+footer {
+  background-color: #525252;
+  border-color: #707070;
+  margin-top: auto;
+}
+
+#divfooter{
+  border-top: solid #707070
+}
+
+   .noborder{
+	border-radius: 0;
+}
+
+.btnsurvey{
+    background-color: #CA3E47;
+}
+
+.inputsize{
+  font-size: 1.2em; 
+}
+
+  
+ /*TEEEEEEEEEST*/
+
+
+  
+  .masthead {
+    min-height: 30rem;
+    position: relative;
+    display: table;
+    width: 100%;
+    height: auto;
+    padding-bottom: 8rem;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .masthead h1 {
+    font-size: 4rem;
+    margin: 0;
+    padding: 0;
+  }
+  
+  @media (min-width: 992px) {
+    .masthead {
+      height: 100vh;
+    }
+    .masthead h1 {
+      font-size: 5.5rem;
+    }
+  }
+  
+/* COULEUR BODY create*/
+#bodyindex{
+  background-color: #313131;
+}
+#bodycreate{
+  background-color: #313131;
+}
+
+#divBgColor1{
+  background-color: #45464B
+}
+
+#redbutton{
+  background-color: #CA3E47 !important
+}
+
+/* COULEUR BODY login */
+#bodylogin{
+  background-color:#45464B;
+}
+
+#cardcolorlogin{
+  background-color: #E8E8E9;
+}
+
+.colorE8E8E9{
+  background-color: #E8E8E9;
+}
+
+#email{
+  height: 60px;
+}
+
+#password{
+  height: 60px;
+}
+
+#buttonsubmitlogin{
+  background-color: #CA3E47 !important
+}
+
+#divcreate{
+  background-color: #45464B
+}
+
+#createindex{
+  background-color: #CA3E47 !important
+}
+
+/** welcome blade */
+.bgcolor525252{
+  background-color: #525252;
+}
+#welcomebody{
+  background-color: #313131;
+}
+
+#bodyregister{
+  background-color: #313131;
+}
+
+.bodyconnection{
+  background-color: #313131;
+}
+
+.color45464B{
+  background-color: #45464B
+}
+
+#colorCA3E47{
+  background-color: #CA3E47;
+}
+
+.MakeAccount{
+  background-color: #CA3E47 !important
+}
+
+.colortextCA3E47{
+  color: #CA3E47;
+}
+
+/* bodyhome */
+#bodyhome{
+  background-color: #313131;
+}
+
+#bodyprofil{
+  background-color: #313131;
+}
+
+.color45464B{
+  background-color: #45464B;
+}
+
+
+.bordercard{
+  border: 0px
+}
+
+.color313131{
+  background-color: #313131;
+}
+
+
+.link-unstyled, .link-unstyled:link, .link-unstyled:hover {
+  color: inherit;
+  text-decoration: inherit;
+}
+.bg-menu:hover {
+  background-color: #CA3E47;
+  color: #FFFFFF;
+}
+.clickable {
+  cursor: pointer;
+}
+
+.nohover:hover{
+  text-decoration: inherit;
+}
+
+body{
+  background-color: #313131;
+}
+
+
+
+input[type=checkbox]
+{
+  /* Double-sized Checkboxes */
+  -ms-transform: scale(2); /* IE */
+  -moz-transform: scale(2); /* FF */
+  -webkit-transform: scale(2); /* Safari and Chrome */
+  -o-transform: scale(2); /* Opera */
+  padding: 10px;
+}
+
+
+input[type=radio]
+{
+  /* Double-sized Checkboxes */
+  -ms-transform: scale(2); /* IE */
+  -moz-transform: scale(2); /* FF */
+  -webkit-transform: scale(2); /* Safari and Chrome */
+  -o-transform: scale(2); /* Opera */
+  padding: 10px;
+}
+
+
+
+/*test navbar create */
+
+.navunderline a{text-decoration:inherit;padding:1rem}
+
+.navunderline a:hover{text-decoration:inherit;}
+.navunderline .underline { border-bottom:3px solid #CA3E47; }
+
+
+.showanswers {
+	color: #CA3E47;
+}
+
+.showanswers:hover {
+	text-decoration: none;
+	color: rgb(200, 200, 200);
+}
