@@ -3,7 +3,7 @@
 
 ## Marketing Plan
 
-You can find our maketing analysis in the Market_analysis_AASC_SURVEY.docx file.
+You can find our marketing analysis in the Market_analysis_AASC_SURVEY.docx file.
 Careful it's in french.
 
 ## Launch our project
