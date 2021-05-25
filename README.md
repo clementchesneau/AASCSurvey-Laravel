@@ -13,7 +13,7 @@ You will also need composer, and node.js to be able to use composer install and
 npm install. Then of course you will need a database to be able to setup the
 needed migrations.
 
-## Pictures
+## Screenshots
 
 ![image](https://user-images.githubusercontent.com/10097537/119501505-34347180-bd69-11eb-83c6-01deb32b161f.png)
 ![image](https://user-images.githubusercontent.com/10097537/119501722-6c3bb480-bd69-11eb-8d4f-090c7d0e0d5c.png)
