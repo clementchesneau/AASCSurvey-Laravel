@@ -12,3 +12,7 @@ As for any Laravel project you will need Laravel, the last version for this one.
 You will also need composer, and node.js to be able to use composer install and
 npm install. Then of course you will need a database to be able to setup the
 needed migrations.
+
+## Pictures
+
+![image](https://user-images.githubusercontent.com/10097537/119501505-34347180-bd69-11eb-83c6-01deb32b161f.png)
