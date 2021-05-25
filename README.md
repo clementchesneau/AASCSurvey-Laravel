@@ -12,5 +12,3 @@ As for any Laravel project you will need Laravel, the last version for this one.
 You will also need composer, and node.js to be able to use composer install and
 npm install. Then of course you will need a database to be able to setup the
 needed migrations.
-If you don't want to setup the project on your computer, you still can go to
-https://aascsurvey.com as long as it's live on that domain name.
