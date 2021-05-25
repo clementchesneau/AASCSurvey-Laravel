@@ -8,7 +8,7 @@ Careful it's in french.
 
 ## Launch our project
 
-As for any Laravel project you will need Laravel, the last version for this one.
+You will need Laravel v7.
 You will also need composer, and node.js to be able to use composer install and
 npm install. Then of course you will need a database to be able to setup the
 needed migrations.
